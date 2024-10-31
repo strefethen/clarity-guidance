@@ -11,7 +11,7 @@ An [accordion](https://clarity.design/documentation/accordion) is a user interfa
 
 ## Guidance
 
-- Design teams **must** use accordions to display large amounts of information without overwhelming users, allowing them to expand and collapse sections as needed.
+- Accordions **must** be used to display large amounts of information without overwhelming users, allowing them to expand and collapse sections as needed.
 - Design teams **must not** use an accordion when all content is important to the user, as it may cause confusion or hinder access to essential information.
 - Design teams **must not** use an accordion when there is very little visible content on the page, as it can lead to unnecessary complexity and reduce usability.
 - Design teams **must not** include overly lengthy information in the accordion content, as this can overwhelm users and diminish the effectiveness of the accordion's collapsible design.
